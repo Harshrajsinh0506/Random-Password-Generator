@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    margin-left: 20px;
+}
+
+.headtext{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h4{
+    color: #D5D4D8;
+    margin: 0px;
+    margin-top: 5px;
+    font-weight: lighter;
+}
+
+#p1{
+   color: #FFFFFF;
+   margin: 0px;
+   margin-top: 30px;
+}
+
+#p2{
+   color: #4ADF86;
+   margin: 0px;
+}
+
+input{
+    margin-top: 25px;
+    background-color: #273549;
+    color: #55F991;
+    border: 0px;
+    padding: 4px;
+    text-align: center;
+}
+
+input::placeholder{
+    color: #506480;
+    font-weight: lighter;
+    text-align: center;
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 6px;
+    border: 0px;
+    border-radius: 3px;
+    background-color: #10B981;
+    color: white;
+    font-weight: 100;
+    display: block;
+}
+
+#pass1{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 180px;
+    height: 32px;
+    left: px;
+    background-color: #273549;
+    color: #55F991;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+#pass2{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 180px;
+    height: 32px;
+    left: 225px;
+    background-color: #273549;
+    color: #55F991;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 15px;
+}
